@@ -1,1 +1,83 @@
+.header {
+  background-color: var(--card-bg);
+  text-align: center;
+  padding: 4rem 1.5rem;
+  margin-bottom: 4rem;
+}
+
+.header h1 {
+  margin: 0.5rem 0 0;
+  font-size: 3rem;
+  color: var(--text-light);
+}
+
+.serviceTypeBadge {
+  display: inline-block;
+  background-color: var(--primary-orange);
+  color: var(--dark-bg);
+  padding: 0.4rem 1rem;
+  border-radius: 50px;
+  font-weight: 700;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 3rem;
+  align-items: flex-start;
+}
+
+.content h2 {
+  text-align: left;
+  margin-bottom: 1.5rem;
+}
+
+.featuresList {
+  list-style-type: '✓';
+  padding-left: 1.5rem;
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+
+.featuresList li {
+  padding-left: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.sidebar .serviceImage {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 2rem;
+  object-fit: cover;
+  aspect-ratio: 4 / 3;
+}
+
+.bookingCard {
+  background-color: var(--card-bg);
+  padding: 2rem;
+  border-radius: 8px;
+  text-align: center;
+  border: 1px solid var(--border-color);
+}
+
+.bookingCard h3 {
+  color: var(--primary-orange);
+  margin-top: 0;
+}
+
+.bookingCard .btn {
+  display: block;
+  width: 100%;
+  margin-top: 1.5rem;
+  font-size: 1.1rem;
+}
+
+@media (max-width: 900px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 
