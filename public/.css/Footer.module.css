@@ -1,1 +1,204 @@
 
+.footer {
+    background-color: #111;
+    padding: 60px 5%;
+    border-top: 3px solid var(--primary-orange);
+}
+
+.footerGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 40px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.footerCol h4 {
+    color: var(--primary-orange);
+    margin-bottom: 20px;
+}
+
+.footerCol ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footerCol ul li {
+    margin-bottom: 10px;
+}
+
+.footerCol a {
+    color: var(--text-gray);
+}
+
+.footerCol a:hover {
+    color: var(--text-light);
+}
+
+.footerLogo {
+    height: 60px;
+    margin-bottom: 20px;
+}
+
+.footerBottom {
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 20px;
+    border-top: 1px solid var(--border-color);
+    color: var(--text-gray);
+}
+Essential first step for any business to protect it's investment., Annual Peace of Mind, Pass inspections with confidence, Reduce your number 1 fire risk, Strengthen your liability profile, Exclusive member savings
+
+Description
+
+This foundational plan is designed to meet essential safety and regulatory requirements, ideal for businesses where basic compliance and liability reduction are key. Core Services Included:Annual Multi-Point System Inspection Emergency & Exit Lighting Function Test & Log Main Electrical Panel Connection Torquing Written Compliance & Safety Documentation for your records10% Discount on parts and labor for any additional service calls.
+
+.footer {
+    background-color: #111;
+    padding: 60px 5%;
+    border-top: 3px solid var(--primary-orange);
+}
+
+.footerGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 40px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.footerCol h4 {
+    color: var(--primary-orange);
+    margin-bottom: 20px;
+}
+
+.footerCol ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footerCol ul li {
+    margin-bottom: 10px;
+}
+
+.footerCol a {
+    color: var(--text-gray);
+}
+
+.footerCol a:hover {
+    color: var(--text-light);
+}
+
+.footerLogo {
+    height: 60px;
+    margin-bottom: 20px;
+}
+
+.footerBottom {
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 20px;
+    border-top: 1px solid var(--border-color);
+    color: var(--text-gray);
+}.footer {
+    background-color: #111;
+    padding: 60px 5%;
+    border-top: 3px solid var(--primary-orange);
+}
+
+.footerGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 40px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.footerCol h4 {
+    color: var(--primary-orange);
+    margin-bottom: 20px;
+}
+
+.footerCol ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footerCol ul li {
+    margin-bottom: 10px;
+}
+
+.footerCol a {
+    color: var(--text-gray);
+}
+
+.footerCol a:hover {
+    color: var(--text-light);
+}
+
+.footerLogo {
+    height: 60px;
+    margin-bottom: 20px;
+}
+
+.footerBottom {
+    text-align: center;
+    margin-top: 50px;.hero {
+    background-image: linear-gradient(rgba(26, 26, 26, 0.7), rgba(26, 26, 26, 0.7)), url(/images/charleston.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 120px 5%;
+    text-align: center;
+    color: white;
+}
+
+.heroContent h1 {
+    font-size: 3.5rem;
+    margin-bottom: 20px;
+}
+
+.heroContent p {
+    font-size: 1.25rem;
+    color: var(--text-gray);
+    margin: 20px 0 40px;
+}
+
+.sectionTitle {
+    text-align: center;
+    font-size: 2.75rem;
+    margin-bottom: 50px;
+    color: var(--primary-orange);
+}
+
+.promoCard {
+    background-color: var(--card-bg);
+    padding: 35px;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.promoCard:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.4);
+}
+
+.promoCard h3 {
+    color: var(--primary-orange);
+}
+
+.cardLink {
+    display: inline-block;
+    margin-top: 20px;
+    font-weight: 600;
+}
+
+
+
+    padding-top: 20px;
+    border-top: 1px solid var(--border-color);
+    color: var(--text-gray);
+}
+
+
