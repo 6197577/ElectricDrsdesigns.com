@@ -1,1 +1,18 @@
-
+{
+  "name": "electricdrsdesigns.com",
+  "version": "1.0.0",
+  "description": "ElectricDrsdesigns.com web project",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.0.0"
+  }
+}
