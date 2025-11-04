@@ -12,7 +12,7 @@ type Props = {
 const Layout = ({
   children,
   title = 'Electric DRs Designs | Charleston WV & Gainesville FL',
-  description = 'Premier electrical contractor services for residential and commercial clients. We specialize in safety, efficiency, and modern electrical solutions.'
+  description = 'Premier electrical contractor services for residential and commercial clients. We specialize in safety, efficiency, energy conservation and modern electrical solutions.'
 }: Props) => (
   <div>
     <Head>
