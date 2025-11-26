@@ -1,2 +1,2 @@
-
-
+import ServiceDetail from '../../../components/ServiceDetail';
+export default function Repair() {  return <ServiceDetail title="Electrical Repair" metaDescription="Commercial repair." serviceType="Live Service" imageUrl="/images/commercial-repair.jpg" imageAlt="Repair" bookingUrl="https://calendar.app.google/FMCxkefPzPVQLrtH7" serviceDescription={<p>Fast fixes for your business.</p>} serviceFeatures={["24/7", "Licensed", "Fast"]} />;}
