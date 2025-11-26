@@ -1,2 +1,1 @@
-
-
+import ServiceDetail from '../../../components/ServiceDetail';export default function SmartHome() {  return <ServiceDetail title="Remote Smart Home Planning" metaDescription="Plan your smart home." serviceType="Remote Service" imageUrl="/images/smart-home.jpg" imageAlt="Smart Home" bookingUrl="https://calendar.app.google/FMCxkefPzPVQLrtH7" serviceDescription={<p>Expert design for home automation.</p>} serviceFeatures={["Lighting", "Security", "HVAC"]} />;}
