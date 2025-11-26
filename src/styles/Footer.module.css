@@ -1,2 +1,1 @@
-
-
+.footer { background-color: #111; padding: 60px 0; border-top: 3px solid var(--primary-orange); margin-top: auto; }.footerGrid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 40px; width: 90%; max-width: 1200px; margin: 0 auto; }.footerCol h4 { color: var(--primary-orange); margin-bottom: 20px; }.footerCol ul { list-style: none; padding: 0; }.footerCol li { margin-bottom: 10px; }.footerLogo { height: 50px; margin-bottom: 20px; }.footerBottom { text-align: center; margin-top: 50px; padding-top: 20px; border-top: 1px solid var(--border-color); color: var(--text-gray); }
