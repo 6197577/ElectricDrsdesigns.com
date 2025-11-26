@@ -1,2 +1,1 @@
-
-
+import ServiceDetail from '../../../../components/ServiceDetail';export default function SelfAudit() {  return <ServiceDetail title="Home Safety Audit Checklist" metaDescription="DIY Safety." serviceType="Digital Product" imageUrl="/images/digital-checklist.jpg" imageAlt="Checklist" bookingUrl="#" serviceDescription={<p>Check your own home for safety.</p>} serviceFeatures={["PDF Download", "Step-by-Step"]} />;}
