@@ -1,2 +1,1 @@
-
-
+.card { position: relative; display: block; border-radius: 8px; overflow: hidden; height: 250px; }.overlay { position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.9)); padding: 20px; }.overlay h3 { margin: 0; color: white; }
