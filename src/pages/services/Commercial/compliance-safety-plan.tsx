@@ -1,2 +1,1 @@
-
-
+import ServiceDetail from '../../../components/ServiceDetail';export default function CompliancePlan() {  return <ServiceDetail title="Compliance & Safety Plan" metaDescription="Business safety." serviceType="Live Service" imageUrl="/images/commercial-inspection.jpg" imageAlt="Inspection" bookingUrl="https://calendar.app.google/FMCxkefPzPVQLrtH7" serviceDescription={<p>Annual inspections for businesses.</p>} serviceFeatures={["Audit", "Testing", "Discounts"]} />;}
