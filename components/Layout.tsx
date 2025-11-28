@@ -1,4 +1,5 @@
 import React, { ReactNode } from 'react';
+import { Analytics } from "@vercel/analytics/next"
 import Head from 'next/head';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
